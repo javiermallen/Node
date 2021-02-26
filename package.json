@@ -1,0 +1,16 @@
+{
+  "name": "primeros-pasos-node",
+  "version": "0.0.1",
+  "description": "Crear un archivo de texto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "multiplicando8": "node app.js --multiplicando=8"
+  },
+  "author": "Javier Mallen",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.2.0"
+  }
+}
